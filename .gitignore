@@ -10,6 +10,6 @@ build
 # misc
 .DS_Store
 npm-debug.log
-public/bundle.js
-public/bundle.js.map
-config/config.json
+bundle.js
+bundle.js.map
+config.json
